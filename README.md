@@ -1,4 +1,4 @@
 # paging3withCompose-
 free movie api binding with compose 
-clean architecture
+MVVM clean architecture
 develop with coroutine kotlin 
